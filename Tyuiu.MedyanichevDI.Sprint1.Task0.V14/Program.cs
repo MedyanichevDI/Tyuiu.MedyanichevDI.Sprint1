@@ -1,6 +1,6 @@
-﻿using Tyuiu.MedyanichevDI.Sprint1.Task0.V0.Lib;
+﻿using Tyuiu.MedyanichevDI.Sprint1.Task0.V14.Lib;
 
-namespace Tyuiu.MedyanichevDI.Sprint1.Task0.V0
+namespace Tyuiu.MedyanichevDI.Sprint1.Task0.V14
 {
     internal class Program
     {
@@ -14,12 +14,11 @@ namespace Tyuiu.MedyanichevDI.Sprint1.Task0.V0
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #0                                                              *");
+            Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("* Выполнил: Медяничев Денис Игоревич | АСОиУб-24-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("*Написать программу, которая вычисляет выражение 10/(2+" + "3)             *");
-            Console.WriteLine("* одинаковых массивов по длине.                                           *");
+            Console.WriteLine("*Написать программу, которая вычисляет выражение 2*3*3+7                  *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");

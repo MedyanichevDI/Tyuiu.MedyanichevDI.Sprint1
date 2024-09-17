@@ -17,9 +17,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.MedyanichevDI.Sprint1.Task0.V0.Lib\Tyuiu.MedyanichevDI.Sprint1.Task0.V0.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.MedyanichevDI.Sprint1.Task0.V14.Lib\Tyuiu.MedyanichevDI.Sprint1.Task0.V14.Lib.csproj" />
   </ItemGroup>
 
+ 
   <ItemGroup>
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>

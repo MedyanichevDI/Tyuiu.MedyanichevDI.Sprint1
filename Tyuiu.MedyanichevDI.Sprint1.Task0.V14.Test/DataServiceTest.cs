@@ -1,6 +1,6 @@
-using Tyuiu.MedyanichevDI.Sprint1.Task0.V0.Lib;
+using Tyuiu.MedyanichevDI.Sprint1.Task0.V14.Lib;
 
-namespace Tyuiu.MedyanichevDI.Sprint1.Task0.V0.Test
+namespace Tyuiu.MedyanichevDI.Sprint1.Task0.V14.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -10,7 +10,7 @@ namespace Tyuiu.MedyanichevDI.Sprint1.Task0.V0.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(2, res);
+            Assert.AreEqual(25, res);
         }
     }
 }
