@@ -7,7 +7,7 @@ namespace Tyuiu.MedyanichevDI.Sprint1.Task4.V20.Lib
         {
 
             double a = (1+x)/Math.Abs(x-Math.Sqrt(2+y));
-            return a;
+            return Math.Round(a,3);
         }
     }
 }

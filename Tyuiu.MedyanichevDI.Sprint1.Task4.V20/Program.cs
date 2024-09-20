@@ -37,7 +37,7 @@ namespace Tyuiu.MedyanichevDI.Sprint1.Task4.V20
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(Math.Round(ds.Calculate(x, y), 3));
+            Console.WriteLine(ds.Calculate(x, y));
             Console.ReadKey();
         }
     }
