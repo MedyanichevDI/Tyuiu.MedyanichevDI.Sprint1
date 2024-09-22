@@ -9,8 +9,7 @@ namespace Tyuiu.MedyanichevDI.Sprint1.Task5.V3.Lib
         {
             double h = Convert.ToDouble(k);
 
-            h = (h % 1000) / 100;
-            h = Math.Floor (h);
+            h = Math.Floor((h % 1000) / 100);
             
             
             return (int)h;
