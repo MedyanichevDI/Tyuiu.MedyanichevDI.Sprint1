@@ -23,7 +23,7 @@ namespace Tyuiu.MedyanichevDI.Sprint1.Task3.V14.Lib
                 
                 number= Math.Round(number/10,0);
             }
-             a = a * Math.Pow(10, -n);
+            
             a = Math.Round(a,3);
 
 
